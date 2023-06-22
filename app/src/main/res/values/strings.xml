@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Inventory</string>
+
+    <string name="item_name">Item Name</string>
+    <string name="price">Price (₹)</string>
+    <string name="quantity">Quantity</string>
+    <string name="add_item">Add Item</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="quantity_req">Quantity in Stock <font color='#FF0000'>*</font></string>
+    <string name="item_name_req">Item Name <font color='#FF0000'>*</font></string>
+    <string name="item_price_req">Item Price <font color='#FF0000'>*</font></string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="currency_symbol">₹</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="item_detail">Item Detail</string>
+    <string name="sample_name">Cadbury Dairy Milk</string>
+    <string name="sample_price">200</string>
+    <string name="sample_quantity">58</string>
+    <string name="sell">Sell</string>
+    <string name="delete">Delete</string>
+    <string name="delete_title">Deleting Item</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+</resources>
